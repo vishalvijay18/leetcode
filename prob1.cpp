@@ -22,7 +22,7 @@ vector<int> twoSum(vector<int>& nums, int target)
 	int count = 0;
 
 	for(auto n : nums) {
-		numMap.insert(std::pair<int,int>(count, n));
+		numMap.insert(std::pair<int,int>(n, count));
 		count++;
 	}
 
