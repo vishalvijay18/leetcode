@@ -1,2 +1,2 @@
-# leetcode
-Repository for leetcode question solutions
+# Leetcode
+Repository for leetcode question and solutions
